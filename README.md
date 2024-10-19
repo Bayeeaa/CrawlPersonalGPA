@@ -5,3 +5,5 @@
 python main.py
 ```
 注意设置好自己的Cookie和User-Agent。
+效果如下：
+![5a35d7cbbe2b42957e3f0f2bef22ba8](https://github.com/user-attachments/assets/8e632ab3-ec81-4a28-b866-e7cbc0343084)
